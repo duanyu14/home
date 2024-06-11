@@ -7,7 +7,7 @@ Simple little homepage。
 
 ![烟雨烟中客の主页](https://s2.loli.net/2022/07/14/K5JigfvDoNewtuS.webp)
 
-- [烟雨烟中客の主页](https://www.imsyy.top)
+- [烟雨烟中客の主页]()
 ### Functions
 
 - [x] Loading animation
